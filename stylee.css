@@ -529,13 +529,10 @@ p{
 }
 #contact .contact-items{
     width: 400px;
-    justify-content: space-evenly;
-    margin: 0;
-    padding: 30px;
-
 }
 #contact .contact-item{
     width: 80%;
+    padding: 20px;
     text-align: center;
     padding: 30px;
     display: flex;
